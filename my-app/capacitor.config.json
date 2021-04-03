@@ -1,5 +1,5 @@
 {
-  "appId": "org.exemplo.my-app",
+  "appId": "org.exemplo.myapp",
   "appName": "My App",
   "bundledWebRuntime": false,
   "npmClient": "npm",
